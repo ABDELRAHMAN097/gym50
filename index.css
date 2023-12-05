@@ -125,10 +125,10 @@ padding-bottom: 4px;
     justify-content: center;
 }
 .cards .card{
-    /* width: 31.33%; */
+    width: 31.33%;
     background-color: #ffffff;
     color: black;
-    /* padding: 54px 20px 59px 20px; */
+    padding: 54px 20px 59px 20px;
     text-align: center;
 }
 .cards .card h3{
